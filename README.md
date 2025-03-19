@@ -14,5 +14,5 @@ Vous pouvez ensuite décompresser ce fichier à l'aide de la commande :
 Un fichier decomp sera créé, il décompresse le fichier comp et corresponds donc au fichier d'origine.
 ___________________________________________________________________________________________________________________________________________________________________
 
-Le sujet du devoir expliquant le codage de Huffman est également disponible.
+L'ennoncé du devoir expliquant bien en détail le codage de Huffman ainsi que les processus de compression/décompression est également disponible.
 

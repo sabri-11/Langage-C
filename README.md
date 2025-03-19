@@ -15,4 +15,5 @@ Un fichier decomp sera créé, il décompresse le fichier comp et corresponds do
 ___________________________________________________________________________________________________________________________________________________________________
 
 L'ennoncé du devoir expliquant bien en détail le codage de Huffman ainsi que les processus de compression/décompression est également disponible.
+Ce devoir repose l'utilisation de structures de données complexe et de solides bases en Arithmétique des pointeurs.
 

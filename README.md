@@ -1,3 +1,5 @@
+Vous pouvez compiler et exécuter le programme en tapant make dans un terminal si vous téléchargez le fichier make.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Un chasseur de trésors se trouve dans un bâtiment rectangulaire d’un seul étage
 constitué d’un ensemble de salles de même taille et formant donc une grille n × m.
 Chaque salle est repérée par ses coordonnées (i, j) et contient des objets d’une valeur
@@ -15,3 +17,6 @@ d’une salle (i, j) vers la salle (i, j + 1) ou vers la salle (i + 1, j) (i.e. 
 bas depuis la salle où il se trouve en considérant le bâtiment vu du dessus).
 Le chasseur collecte les objets dans les salles qu’il traverse. Son objectif est bien sûr
 de collecter un ensemble d’objets d’une valeur totale maximale.
+
+La grille du bâtiment est modélisé par différentes matrices de différentes tailles, vous remarquerez que
+le programme récursif mets trop de temps à s'exécuter pour la matrice la plus grande.

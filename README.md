@@ -1,5 +1,9 @@
-Vous pouvez compiler et exécuter le programme en tapant make dans un terminal si vous téléchargez le fichier make.
+Recherche d'un plus court chemin
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vous pouvez compiler et exécuter le programme en tapant make dans un terminal si vous téléchargez le fichier make.
+
+
 Un chasseur de trésors se trouve dans un bâtiment rectangulaire d’un seul étage
 constitué d’un ensemble de salles de même taille et formant donc une grille n × m.
 Chaque salle est repérée par ses coordonnées (i, j) et contient des objets d’une valeur
